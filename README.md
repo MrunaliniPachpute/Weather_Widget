@@ -6,7 +6,7 @@ The app dynamically shows **weather images** (Sunny, Rainy, Snowy, Foggy, Cloudy
 ---
 
 ## 🚀 Live Demo  
-👉 [Weather App on Render](https://weather-app-pps5.onrender.com/)
+👉 [Project Link](https://weather-app-pps5.onrender.com/)
 
 ---
 
@@ -15,7 +15,7 @@ The app dynamically shows **weather images** (Sunny, Rainy, Snowy, Foggy, Cloudy
 - 🔍 **Search weather by any location (city, state, country, etc.) name**  
 - 🌡️ **Shows temperature, feels like, humidity, min & max temp**  
 - 🖼️ **Displays relevant weather image** (Sunny, Snow, Rain, Fog, etc.)  
-- 🌍 **Includes sample places worldwide with opposite weather**  
+- 🌍 **Includes sample places worldwide with weather**  
   (e.g., *India vs Australia, London vs Dubai*)  
 - ⚡ **Built with React + Vite** & styled using **Material UI (MUI)**  
 
