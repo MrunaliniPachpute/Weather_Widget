@@ -7,10 +7,10 @@ The app dynamically shows **weather images** (Sunny, Rainy, Snowy, Foggy, Cloudy
 
 ## 🚀 Features  
 
-- 🔍 **Search weather by city name**  
+- 🔍 **Search weather by any location (city,state,country,etc) name**  
 - 🌡️ **Shows temperature, feels like, humidity, min & max temp**  
 - 🖼️ **Displays relevant weather image** (Sunny, Snow, Rain, Fog, etc.)  
-- 🌍 **Includes sample cities worldwide with opposite weather**  
+- 🌍 **Includes sample places worldwide with opposite weather**  
   (e.g., *India vs Australia, London vs Dubai*)  
 - ⚡ **Built with React + Vite** & styled using **Material UI (MUI)**  
 
